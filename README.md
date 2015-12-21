@@ -1,6 +1,8 @@
 <!-- @file Project Page -->
 # Bootstrap
 
+[![Join the chat at https://gitter.im/unicorn-fail/bootstrap](https://badges.gitter.im/unicorn-fail/bootstrap.svg)](https://gitter.im/unicorn-fail/bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Sleek, intuitive, and powerful mobile first front-end framework for faster and
 > easier web development. Bootstrap has become one of the most popular front-end
 > frameworks and open source projects in the world.
